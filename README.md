@@ -18,5 +18,5 @@ Synthesis, given the coefficients of a series expansion in spherical harmonics
 Inputs
    * q: Vector of coefficients
    * varargin: theta, phi
- Outputs:
+Outputs:
    * Reconstructed field. (Struct with fields theta and phi)
